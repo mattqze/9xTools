@@ -1,0 +1,23 @@
+#container-header{
+    display:flex;
+    align-items: center;
+}
+#container-header h1 {
+    margin: 0;
+}
+#container-header a{
+    margin-left:15px ;
+}
+#current-page{
+    color:maroon;
+}
+a{
+    color: #0000EE;
+}
+#updates h2{
+    padding-bottom: 5px;
+}
+#updates h3{
+    line-height: 0;
+}
+/*Never use alternative styles unless needed for specific page.*/
