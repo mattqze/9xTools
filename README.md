@@ -1,3 +1,3 @@
 # repm
-Retro Package Manager Test
+(Re)tro (P)ackage (M)anager Test
 # Notes
