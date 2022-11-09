@@ -1,12 +1,15 @@
 #container-header{
-    display:flex;
+    display:relative;
     align-items: center;
 }
-#container-header h1 {
-    margin: 0;
+#container-header span {
+    margin: 0%;
+    font-size: 32px;
+    font-weight: bold;
 }
 #container-header a{
-    margin-left:15px ;
+    margin-left:15px;
+    font-size:20px;
 }
 #current-page{
     color:maroon;
@@ -19,5 +22,8 @@ a{
 }
 #updates h3{
     line-height: 0;
+}
+hr{
+    width: 100%;
 }
 /*Never use alternative styles unless needed for specific page.*/
